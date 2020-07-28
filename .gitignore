@@ -12,4 +12,4 @@ __pycache__
 # Miscellaneous
 .DS_Store
 
-ssh/*
+ssh
